@@ -86,8 +86,8 @@ int puissance = 0 ;
 
 //#define USE_SERIAL  SerialUSB //Serial for boards whith USB serial port
 #define USE_SERIAL  Serial
-#define outputPin  D6 
-#define zerocross  D5 // for boards with CHANGEBLE input pins
+#define outputPin  D0 
+#define zerocross  D1 // for boards with CHANGEBLE input pins
 
 /***************************
  * End Settings
